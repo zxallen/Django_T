@@ -1,5 +1,6 @@
 # Small-Test-LAN-Chat-Bombs
 
+#这是一个模拟代码
 import socket
 import time
 import threading
