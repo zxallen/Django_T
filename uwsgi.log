@@ -1,0 +1,358 @@
+*** Starting uWSGI 2.0.17 (64bit) on [Mon Mar 12 10:05:16 2018] ***
+compiled with version: 5.4.0 20160609 on 11 March 2018 13:27:38
+os: Linux-4.13.0-36-generic #40~16.04.1-Ubuntu SMP Fri Feb 16 23:25:58 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/allen/Desktop/TTSX/dailyfresh_24
+writing pidfile to uwsgi.pid
+detected binary path: /home/allen/.virtualenv/py3_django/bin/uwsgi
+chdir() to /home/allen/Desktop/TTSX/dailyfresh_24/dailyfresh_24
+your processes number limit is 11709
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 192.168.59.134:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:42311 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Nov 23 2017, 16:37:01)  [GCC 5.4.0 20160609]
+!!! Python Home is not a directory: /home/allen/.virtualenvs/py3_django !!!
+Set PythonHome to /home/allen/.virtualenvs/py3_django
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ImportError: No module named 'encodings'
+
+Current thread 0x00007faa9f8e2740 (most recent call first):
+*** Starting uWSGI 2.0.17 (64bit) on [Mon Mar 12 10:08:44 2018] ***
+compiled with version: 5.4.0 20160609 on 11 March 2018 13:27:38
+os: Linux-4.13.0-36-generic #40~16.04.1-Ubuntu SMP Fri Feb 16 23:25:58 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/allen/Desktop/TTSX/dailyfresh_24
+writing pidfile to uwsgi.pid
+detected binary path: /home/allen/.virtualenv/py3_django/bin/uwsgi
+chdir() to /home/allen/Desktop/TTSX/dailyfresh_24/dailyfresh_24
+your processes number limit is 11709
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 192.168.59.134:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:38099 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Nov 23 2017, 16:37:01)  [GCC 5.4.0 20160609]
+!!! Python Home is not a directory: /home/allen/.virtualenvs/py3_django !!!
+Set PythonHome to /home/allen/.virtualenvs/py3_django
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ImportError: No module named 'encodings'
+
+Current thread 0x00007f2f85591740 (most recent call first):
+*** Starting uWSGI 2.0.17 (64bit) on [Mon Mar 12 10:20:48 2018] ***
+compiled with version: 5.4.0 20160609 on 11 March 2018 13:27:38
+os: Linux-4.13.0-36-generic #40~16.04.1-Ubuntu SMP Fri Feb 16 23:25:58 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/allen/Desktop/TTSX/dailyfresh_24
+writing pidfile to uwsgi.pid
+detected binary path: /home/allen/.virtualenv/py3_django/bin/uwsgi
+chdir() to /home/allen/Desktop/TTSX/dailyfresh_24/dailyfresh_24
+your processes number limit is 11709
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+bind(): Cannot assign requested address [core/socket.c line 769]
+*** Starting uWSGI 2.0.17 (64bit) on [Mon Mar 12 10:24:49 2018] ***
+compiled with version: 5.4.0 20160609 on 11 March 2018 13:27:38
+os: Linux-4.13.0-36-generic #40~16.04.1-Ubuntu SMP Fri Feb 16 23:25:58 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/allen/Desktop/TTSX/dailyfresh_24
+writing pidfile to uwsgi.pid
+detected binary path: /home/allen/.virtualenv/py3_django/bin/uwsgi
+chdir() to /home/allen/Desktop/TTSX/dailyfresh_24/dailyfresh_24
+your processes number limit is 11709
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+bind(): Cannot assign requested address [core/socket.c line 769]
+*** Starting uWSGI 2.0.17 (64bit) on [Mon Mar 12 10:59:43 2018] ***
+compiled with version: 5.4.0 20160609 on 11 March 2018 13:27:38
+os: Linux-4.13.0-36-generic #40~16.04.1-Ubuntu SMP Fri Feb 16 23:25:58 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/allen/Desktop/TTSX/dailyfresh_24
+writing pidfile to uwsgi.pid
+detected binary path: /home/allen/.virtualenv/py3_django/bin/uwsgi
+chdir() to /home/allen/Desktop/TTSX/dailyfresh_24/dailyfresh_24
+your processes number limit is 11709
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 192.168.59.134:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:42991 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Nov 23 2017, 16:37:01)  [GCC 5.4.0 20160609]
+!!! Python Home is not a directory: /home/allen/.virtualenvs/py3_django !!!
+Set PythonHome to /home/allen/.virtualenvs/py3_django
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ImportError: No module named 'encodings'
+
+Current thread 0x00007fdd094dc740 (most recent call first):
+*** Starting uWSGI 2.0.17 (64bit) on [Mon Mar 12 11:01:10 2018] ***
+compiled with version: 5.4.0 20160609 on 11 March 2018 13:27:38
+os: Linux-4.13.0-36-generic #40~16.04.1-Ubuntu SMP Fri Feb 16 23:25:58 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/allen/Desktop/TTSX/dailyfresh_24
+writing pidfile to uwsgi.pid
+detected binary path: /home/allen/.virtualenv/py3_django/bin/uwsgi
+chdir() to /home/allen/Desktop/TTSX/dailyfresh_24
+your processes number limit is 11709
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 192.168.59.134:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:45511 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Nov 23 2017, 16:37:01)  [GCC 5.4.0 20160609]
+!!! Python Home is not a directory: /home/allen/.virtualenvs/py3_django !!!
+Set PythonHome to /home/allen/.virtualenvs/py3_django
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ImportError: No module named 'encodings'
+
+Current thread 0x00007ff527c90740 (most recent call first):
+*** Starting uWSGI 2.0.17 (64bit) on [Mon Mar 12 11:02:46 2018] ***
+compiled with version: 5.4.0 20160609 on 11 March 2018 13:27:38
+os: Linux-4.13.0-36-generic #40~16.04.1-Ubuntu SMP Fri Feb 16 23:25:58 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/allen/Desktop/TTSX/dailyfresh_24
+writing pidfile to uwsgi.pid
+detected binary path: /home/allen/.virtualenv/py3_django/bin/uwsgi
+chdir() to /home/allen/Desktop/TTSX/dailyfresh_24
+your processes number limit is 11709
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 192.168.59.134:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:44675 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Nov 23 2017, 16:37:01)  [GCC 5.4.0 20160609]
+!!! Python Home is not a directory: /home/allen/.virtualenvs/py3_django !!!
+Set PythonHome to /home/allen/.virtualenvs/py3_django
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ImportError: No module named 'encodings'
+
+Current thread 0x00007fa4b093f740 (most recent call first):
+*** Starting uWSGI 2.0.17 (64bit) on [Mon Mar 12 11:05:59 2018] ***
+compiled with version: 5.4.0 20160609 on 11 March 2018 13:27:38
+os: Linux-4.13.0-36-generic #40~16.04.1-Ubuntu SMP Fri Feb 16 23:25:58 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/allen/Desktop/TTSX/dailyfresh_24
+writing pidfile to uwsgi.pid
+detected binary path: /home/allen/.virtualenv/py3_django/bin/uwsgi
+chdir() to /home/allen/Desktop/TTSX/dailyfresh_24
+your processes number limit is 11709
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 192.168.59.134:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:40011 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Nov 23 2017, 16:37:01)  [GCC 5.4.0 20160609]
+!!! Python Home is not a directory: /home/allen/.virtualenvs/py3_django !!!
+Set PythonHome to /home/allen/.virtualenvs/py3_django
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ImportError: No module named 'encodings'
+
+Current thread 0x00007fbb48dff740 (most recent call first):
+*** Starting uWSGI 2.0.17 (64bit) on [Mon Mar 12 11:13:36 2018] ***
+compiled with version: 5.4.0 20160609 on 11 March 2018 13:27:38
+os: Linux-4.13.0-36-generic #40~16.04.1-Ubuntu SMP Fri Feb 16 23:25:58 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/allen/Desktop/TTSX/dailyfresh_24
+writing pidfile to uwsgi.pid
+detected binary path: /home/allen/.virtualenv/py3_django/bin/uwsgi
+chdir() to /home/allen/Desktop/TTSX/dailyfresh_24
+your processes number limit is 11709
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+bind(): Cannot assign requested address [core/socket.c line 769]
+*** Starting uWSGI 2.0.17 (64bit) on [Mon Mar 12 11:20:33 2018] ***
+compiled with version: 5.4.0 20160609 on 11 March 2018 13:27:38
+os: Linux-4.13.0-36-generic #40~16.04.1-Ubuntu SMP Fri Feb 16 23:25:58 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/allen/Desktop/TTSX/dailyfresh_24
+writing pidfile to uwsgi.pid
+detected binary path: /home/allen/.virtualenv/py3_django/bin/uwsgi
+chdir() to /home/allen/Desktop/TTSX/dailyfresh_24
+your processes number limit is 11709
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 192.168.59.134:8080 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:36541 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Nov 23 2017, 16:37:01)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/allen/.virtualenv/py3_django
+Python main interpreter initialized at 0xf0b590
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416880 bytes (407 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 4 seconds on interpreter 0xf0b590 pid: 5409 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 5409)
+spawned uWSGI worker 1 (pid: 5416, cores: 2)
+spawned uWSGI worker 2 (pid: 5417, cores: 2)
+spawned uWSGI worker 3 (pid: 5420, cores: 2)
+spawned uWSGI worker 4 (pid: 5422, cores: 2)
+spawned uWSGI http 1 (pid: 5424)
+*** Starting uWSGI 2.0.17 (64bit) on [Mon Mar 12 11:27:26 2018] ***
+compiled with version: 5.4.0 20160609 on 11 March 2018 13:27:38
+os: Linux-4.13.0-36-generic #40~16.04.1-Ubuntu SMP Fri Feb 16 23:25:58 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/allen/Desktop/TTSX/dailyfresh_24
+writing pidfile to uwsgi.pid
+detected binary path: /home/allen/.virtualenv/py3_django/bin/uwsgi
+chdir() to /home/allen/Desktop/TTSX/dailyfresh_24
+your processes number limit is 11709
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (192.168.59.134:8080).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.17 (64bit) on [Mon Mar 12 11:27:52 2018] ***
+compiled with version: 5.4.0 20160609 on 11 March 2018 13:27:38
+os: Linux-4.13.0-36-generic #40~16.04.1-Ubuntu SMP Fri Feb 16 23:25:58 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/allen/Desktop/TTSX/dailyfresh_24
+writing pidfile to uwsgi.pid
+detected binary path: /home/allen/.virtualenv/py3_django/bin/uwsgi
+chdir() to /home/allen/Desktop/TTSX/dailyfresh_24
+your processes number limit is 11709
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (192.168.59.134:8080).
+bind(): Address already in use [core/socket.c line 769]
+[pid: 5416|app: 0|req: 1/1] 192.168.59.134 () {38 vars in 660 bytes} [Mon Mar 12 11:31:59 2018] GET /detail/1 => generated 9981 bytes in 3825 msecs (HTTP/1.1 200) 4 headers in 224 bytes (1 switches on core 0)
+[pid: 5416|app: 0|req: 3/2] 192.168.59.134 () {38 vars in 659 bytes} [Mon Mar 12 11:32:03 2018] GET /static/css/reset.css => generated 94 bytes in 78 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 5416|app: 0|req: 3/3] 192.168.59.134 () {38 vars in 640 bytes} [Mon Mar 12 11:32:03 2018] GET /static/js/slide.js => generated 92 bytes in 77 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 5422|app: 0|req: 1/4] 192.168.59.134 () {38 vars in 656 bytes} [Mon Mar 12 11:32:03 2018] GET /static/js/jquery-1.12.2.js => generated 100 bytes in 683 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 5417|app: 0|req: 1/5] 192.168.59.134 () {38 vars in 656 bytes} [Mon Mar 12 11:32:03 2018] GET /static/js/jquery-ui.min.js => generated 100 bytes in 689 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 5420|app: 0|req: 1/6] 192.168.59.134 () {38 vars in 657 bytes} [Mon Mar 12 11:32:03 2018] GET /static/css/main.css => generated 93 bytes in 698 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 5416|app: 0|req: 4/7] 192.168.59.134 () {38 vars in 664 bytes} [Mon Mar 12 11:32:04 2018] GET /static/js/jquery-1.12.4.min.js => generated 104 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 5417|app: 0|req: 2/8] 192.168.59.134 () {38 vars in 656 bytes} [Mon Mar 12 11:32:04 2018] GET /static/js/jquery-ui.min.js => generated 100 bytes in 6 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 5422|app: 0|req: 2/9] 192.168.59.134 () {38 vars in 684 bytes} [Mon Mar 12 11:32:04 2018] GET /static/images/logo.png => generated 96 bytes in 9 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 5416|app: 0|req: 5/10] 192.168.59.134 () {38 vars in 640 bytes} [Mon Mar 12 11:32:04 2018] GET /static/js/slide.js => generated 92 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 5416|app: 0|req: 6/11] 192.168.59.134 () {38 vars in 664 bytes} [Mon Mar 12 11:32:04 2018] GET /static/js/jquery-1.12.4.min.js => generated 104 bytes in 2 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 5416|app: 0|req: 7/12] 192.168.59.134 () {38 vars in 662 bytes} [Mon Mar 12 11:32:04 2018] GET /favicon.ico => generated 85 bytes in 5 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 5416|app: 0|req: 8/13] 192.168.59.134 () {40 vars in 741 bytes} [Mon Mar 12 11:32:23 2018] GET /users/info => generated 0 bytes in 34 msecs (HTTP/1.1 302) 4 headers in 172 bytes (1 switches on core 1)
+[pid: 5416|app: 0|req: 9/14] 192.168.59.134 () {40 vars in 776 bytes} [Mon Mar 12 11:32:23 2018] GET /users/login?next=/users/info => generated 1941 bytes in 17 msecs (HTTP/1.1 200) 4 headers in 224 bytes (1 switches on core 0)
+[pid: 5420|app: 0|req: 2/15] 192.168.59.134 () {38 vars in 679 bytes} [Mon Mar 12 11:32:23 2018] GET /static/css/reset.css => generated 94 bytes in 6 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 5420|app: 0|req: 3/16] 192.168.59.134 () {38 vars in 677 bytes} [Mon Mar 12 11:32:23 2018] GET /static/css/main.css => generated 93 bytes in 2 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 5416|app: 0|req: 10/17] 192.168.59.134 () {38 vars in 708 bytes} [Mon Mar 12 11:32:23 2018] GET /static/images/logo02.png => generated 98 bytes in 5 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+没有缓存,查询数据
+[pid: 5416|app: 0|req: 11/18] 192.168.59.134 () {38 vars in 680 bytes} [Mon Mar 12 11:32:30 2018] GET /index => generated 16128 bytes in 248 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 5416|app: 0|req: 12/19] 192.168.59.134 () {38 vars in 656 bytes} [Mon Mar 12 11:32:30 2018] GET /static/css/reset.css => generated 94 bytes in 2 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 5417|app: 0|req: 3/20] 192.168.59.134 () {38 vars in 654 bytes} [Mon Mar 12 11:32:30 2018] GET /static/css/main.css => generated 93 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 5422|app: 0|req: 3/21] 192.168.59.134 () {38 vars in 653 bytes} [Mon Mar 12 11:32:30 2018] GET /static/js/jquery-ui.min.js => generated 100 bytes in 2 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 5416|app: 0|req: 13/22] 192.168.59.134 () {38 vars in 653 bytes} [Mon Mar 12 11:32:30 2018] GET /static/js/jquery-1.12.2.js => generated 100 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 5422|app: 0|req: 4/23] 192.168.59.134 () {38 vars in 637 bytes} [Mon Mar 12 11:32:30 2018] GET /static/js/slide.js => generated 92 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 5416|app: 0|req: 14/24] 192.168.59.134 () {38 vars in 681 bytes} [Mon Mar 12 11:32:30 2018] GET /static/images/logo.png => generated 96 bytes in 3 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+[pid: 5417|app: 0|req: 4/25] 192.168.59.134 () {38 vars in 653 bytes} [Mon Mar 12 11:32:30 2018] GET /static/js/jquery-ui.min.js => generated 100 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 1)
+[pid: 5420|app: 0|req: 4/26] 192.168.59.134 () {38 vars in 637 bytes} [Mon Mar 12 11:32:30 2018] GET /static/js/slide.js => generated 92 bytes in 4 msecs (HTTP/1.1 404) 2 headers in 80 bytes (1 switches on core 0)
+gateway "uWSGI http 1" has been buried (pid: 5424)
+...brutally killing workers...
+Gracefully killing worker 1 (pid: 5416)...
+Gracefully killing worker 2 (pid: 5417)...
+Gracefully killing worker 3 (pid: 5420)...
+Gracefully killing worker 4 (pid: 5422)...
+worker 1 buried after 7 seconds
+worker 2 buried after 7 seconds
+worker 3 buried after 7 seconds
+worker 4 buried after 7 seconds
+binary reloading uWSGI...
+chdir() to /home/allen/Desktop/TTSX/dailyfresh_24
+closing all non-uwsgi socket fds > 2 (max_fd = 1048576)...
+found fd 3 mapped to socket 0 (127.0.0.1:36541)
+running /home/allen/.virtualenv/py3_django/bin/uwsgi
+[uWSGI] getting INI configuration from uwsgi.ini
+*** Starting uWSGI 2.0.17 (64bit) on [Mon Mar 12 12:16:27 2018] ***
+compiled with version: 5.4.0 20160609 on 11 March 2018 13:27:38
+os: Linux-4.13.0-36-generic #40~16.04.1-Ubuntu SMP Fri Feb 16 23:25:58 UTC 2018
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /home/allen/Desktop/TTSX/dailyfresh_24
+detected binary path: /home/allen/.virtualenv/py3_django/bin/uwsgi
+chdir() to /home/allen/Desktop/TTSX/dailyfresh_24
+your processes number limit is 11709
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 192.168.59.134:8080 fd 3
+Python version: 3.5.2 (default, Nov 23 2017, 16:37:01)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/allen/.virtualenv/py3_django
+Python main interpreter initialized at 0x26cc270
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416880 bytes (407 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 4 seconds on interpreter 0x26cc270 pid: 5409 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 5409)
+spawned uWSGI worker 1 (pid: 9569, cores: 2)
+spawned uWSGI worker 2 (pid: 9570, cores: 2)
+spawned uWSGI worker 3 (pid: 9573, cores: 2)
+spawned uWSGI worker 4 (pid: 9575, cores: 2)
